@@ -68,4 +68,4 @@ Exif-Code/
 
 ---
 
-> Desarrollado con fines educativos y de uso ético. Úsalo responsablemente.# no.name
+> Desarrollado con fines educativos y de uso ético. Úsalo responsablemente.
